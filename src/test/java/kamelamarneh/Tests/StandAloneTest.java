@@ -17,7 +17,7 @@ import kamelamarneh.pageobjects.LandingPage;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
-
+		//new comments are added
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		WebDriverWait wait= new WebDriverWait(driver, Duration.ofSeconds(20));
