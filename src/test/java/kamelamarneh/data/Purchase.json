@@ -1,0 +1,18 @@
+	[
+		{
+			"email" : "noritof738@coursora.com",
+			"password": "Hello1234*",
+			"productName": "ZARA COAT 3",
+			"countryName": "Jordan",
+			"suggestion": "jor"
+			
+		}
+		,
+		{
+			"email" : "gefahiv654@devdigs.com",
+			"password": "Hello1234*",
+			"productName": "ADIDAS ORIGINAL",
+			"countryName": "India",
+			"suggestion": "ind"
+		}
+	]
